@@ -1,3 +1,5 @@
+# farrayconst v0.0.1
+
 ### How to use:
 
 Here is an example
