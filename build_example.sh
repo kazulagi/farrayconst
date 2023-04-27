@@ -1,0 +1,1 @@
+gfortran src/farrayconst.f90 example.f90
